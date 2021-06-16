@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    font: serif;
+   color: orange;
+}
+h3{
+    text-align: center;
+    font-size: 12;
+    color: dimgray;
+}
+body{
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 45%, rgba(0,212,255,1) 100%);
+}
+p1{
+    color: aliceblue;
+    
+}
+
+h2{
+    color: orange;
+  text-align: center;  
+}
+li{
+    color: aliceblue;
+    text-align: center;
+    font-size: 20;
+    color:gold;
+}
+
+img{
+    width: 1540px;
+}
+P4{
+    color: deeppink;
+    font-size:12;
+    
+}
